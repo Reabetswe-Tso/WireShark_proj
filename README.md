@@ -19,9 +19,6 @@ The goal was to capture, inspect, and analyze network packets in order to unders
 
 ---
 
-
----
-
 ## 🚀 How to Use
 1. Download the `.pcapng` file from this repo.
 2. Open it in [Wireshark](https://www.wireshark.org/).
@@ -39,7 +36,5 @@ The goal was to capture, inspect, and analyze network packets in order to unders
 
 ---
 
-## 🙌 Acknowledgements
-- Wireshark Documentation
-- Online security tutorials
-- CMPG 323 Cybersecurity Module (if this is part of coursework)
+## Author
+Reabetswe Tsotetsi
